@@ -1,0 +1,19 @@
+{
+  "name": "workflow-jest",
+  "version": "1.0.0",
+  "description": "learning jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraKaraliene/workflow-jest.git"
+  },
+  "author": "Laura Karaliene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraKaraliene/workflow-jest/issues"
+  },
+  "homepage": "https://github.com/LauraKaraliene/workflow-jest#readme"
+}
