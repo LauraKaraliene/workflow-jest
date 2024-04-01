@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/LauraKaraliene/workflow-jest#readme",
   "devDependencies": {
+    "eslint": "^8.57.0",
     "jest": "^29.2.0"
   }
 }
