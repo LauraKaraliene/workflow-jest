@@ -4,16 +4,20 @@
   "description": "learning jest",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "npm run test-unit",
+    "test-unit": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LauraKaraliene/workflow-jest.git"
+    "url": "https://github.com/LauraKaraliene/workflow-jest.git"
   },
   "author": "Laura Karaliene",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LauraKaraliene/workflow-jest/issues"
   },
-  "homepage": "https://github.com/LauraKaraliene/workflow-jest#readme"
+  "homepage": "https://github.com/LauraKaraliene/workflow-jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
 }
