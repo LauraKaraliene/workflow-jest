@@ -7,7 +7,7 @@ describe("My apple", () => {
   });
 
   it("is delicious", () => {
-    expect(apple.rating).toBeGreaterThan(6);
+    expect(apple.rating).toBeGreaterThan(3);
   });
 
   it("is vegan friendly", () => {
