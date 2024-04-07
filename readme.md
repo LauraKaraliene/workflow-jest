@@ -1,0 +1,1 @@
+[![Automated E2E Testing](https://github.com/LauraKaraliene/workflow-jest-cypress/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/LauraKaraliene/workflow-jest-cypress/actions/workflows/e2e-test.yml)
